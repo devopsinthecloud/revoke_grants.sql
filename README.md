@@ -1,0 +1,1 @@
+# revoke_grants.sql
